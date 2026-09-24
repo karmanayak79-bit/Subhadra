@@ -27,4 +27,11 @@
         "expirydate": "28-09-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "f1a9a0327197ffc6",
+        "username": "user1",
+        "password": "pass123",
+        "expirydate": "29-09-2026",
+        "Allowoffline": true
+    },
 ]
