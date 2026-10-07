@@ -1,8 +1,8 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
+        "device_id": "fe63778da2340bcd",
+        "key": "karma123",
+        "expirydate": "31-10-2026",
         "Allowoffline": true
     },
     {
